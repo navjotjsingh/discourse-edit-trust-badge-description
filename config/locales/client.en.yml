@@ -1,3 +1,6 @@
+en:
+  admin_js:
      badges:
-badge:
-description: <a href="http://forum.shopperstalk.in/t/user-guide-to-trust-levels/31">Granted</a> invitations
+       badge:
+         member:
+           description: <a href="http://forum.shopperstalk.in/t/user-guide-to-trust-levels/31">Granted</a> invitations
