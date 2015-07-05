@@ -1,2 +1,2 @@
 # discourse-edit-trust-badge-description
-Basic Plugin which enables editing of Trust Badge Descriptions for Discourse.
+Customised plugin used to edit Trust Badge Descriptions for my forum.
