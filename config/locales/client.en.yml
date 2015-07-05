@@ -5,7 +5,7 @@ en:
          basic_user:
           description: <a href="/t/user-guide-to-trust-levels/31">Granted</a> all essential community functions
          member:
-           description: <a href="/t/user-guide-to-trust-levels/31">Granted</a> invitations
+           description: <a href="/t/user-guide-to-trust-levels/31">Granted</a> invitations and an ad free experience
          regular:
            description: <a href="/t/user-guide-to-trust-levels/31">Granted</a> recategorize, rename and followed links
          leader:
